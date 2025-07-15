@@ -4,7 +4,7 @@ GraphQL Exercise
 
 ---
 
-![gcsimg](gcs.gif)
+![project](/project.png)
 
 [Patika GraphQL Homework-5](https://academy.patika.dev/courses/graphql/odev-05)
 
