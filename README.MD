@@ -6,4 +6,5 @@
    ## Project        [graphql-client-subscriptions](graphql/graphql-client-subscriptions/)
    ## Project        [graphql-client-mutations](graphql/graphql-client-mutations/)
    ## Cheat Sheet    [monngodb-cheat-sheet](Mongodb-cheat-sheet/)
-   ## Agency         [monngodb-cheat-sheet](agency/)
+   ## Agency         [agency](agency/)
+   ## freelancer     [freelancer](freelancer/)
