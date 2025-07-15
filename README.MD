@@ -1,5 +1,5 @@
 # Node.js ile Backend Patikası
 ## GRAPHQL PROJELERİ
-   ## Project    [chat-app-master](graphql/chat-app-master/)
+   ## Project    [chat-app](graphql/chat-app/)
    ## Project    [realtime-voting-app-hasura](graphql/realtime-voting-app-hasura/)
    ## Project    [rick-and-morty-characters](graphql/rick-and-morty-characters/)
