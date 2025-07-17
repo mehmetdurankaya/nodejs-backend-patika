@@ -4,17 +4,9 @@ Express Js ile oluşturulmuş bir mobilya mağazası web sitesi. Üye kayıt, ü
 
 Anasayfa, Mobilyalar, İletişim ve Hakkında sayfaları mevcut. Ayrıca üye giriş, üye kayıt gibi yardımcı sayfalar bulunuyor.
 
-## Ekran Görüntüleri
-
-Ekran kayıtı aşağıdaki gibidir.
+## Ekran Görüntüsü
 
 ![Anasayfa](anasayfa.png)
-
-![Mobilyalar](mobilyalar.png)
-
-![Mobilya Ekle](mobilya-ekle.png)
-
-![Mobilya Sile](mobilya-sil.png)
 
 ## Kurulum
 
