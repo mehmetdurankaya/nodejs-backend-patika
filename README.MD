@@ -8,3 +8,5 @@
    ## Cheat Sheet    [monngodb-cheat-sheet](Mongodb-cheat-sheet/)
    ## Agency         [agency](agency/)
    ## freelancer     [freelancer](freelancer/)
+   ## misfit         [misfit](misfit/)
+   ## fixtures       [fixtures](fixtures/)
