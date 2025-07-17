@@ -1,4 +1,4 @@
-# Furtore - Bir Mobilya Mağazası Web Sitesi
+# Fixtures - Bir Mobilya Mağazası Web Sitesi
 
 Express Js ile oluşturulmuş bir mobilya mağazası web sitesi. Üye kayıt, ürün ekleme, düzenleme, silme işlemleri, üye ürün seçme işlemleri yapılabilir fakat online satış bulunmuyor.
 
